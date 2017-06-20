@@ -39,7 +39,7 @@
             <inherited>true</inherited>
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>.\src\test resources\testng.xml</suiteXmlFile>
+                    <suiteXmlFile>.\src\testresources\testng.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>
