@@ -28,7 +28,6 @@
             <version>3.1</version>
             <configuration>
                 <source>1.8</source>
-                <target>test</target>
                 <target>1.8</target>
             </configuration>
             </plugin>
